@@ -1,0 +1,44 @@
+{
+  "trips": [
+    {
+      "id": 1,
+      "title": "Santorini Adventure",
+      "location": "Greece",
+      "shortDescription": "Discover the whitewashed villages and blue domes of Santorini.",
+      "description": "Spend 5 unforgettable days exploring Santorini — from the iconic caldera sunsets to hidden beaches and ancient ruins. Enjoy authentic Greek cuisine, boat tours, and relaxation on volcanic sands.",
+      "price": 850,
+      "duration": "5 days",
+      "image": "images/santorini.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Norwegian Fjord Cruise",
+      "location": "Norway",
+      "shortDescription": "Cruise through the breathtaking fjords of Norway.",
+      "description": "A 7-day cruise across Norway’s most stunning fjords. Experience waterfalls, glaciers, and mountain views. Includes stops in Bergen, Geiranger, and Flam, with guided excursions and onboard dining.",
+      "price": 1290,
+      "duration": "7 days",
+      "image": "images/norway.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tokyo Culture Trip",
+      "location": "Japan",
+      "shortDescription": "Immerse yourself in modern and traditional Tokyo.",
+      "description": "Explore both the futuristic and historical sides of Tokyo in this 6-day tour. Visit the Senso-ji Temple, Shibuya Crossing, and indulge in sushi workshops. Includes local transport and accommodation.",
+      "price": 1120,
+      "duration": "6 days",
+      "image": "images/tokyo.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Bali Wellness Escape",
+      "location": "Indonesia",
+      "shortDescription": "Relax and recharge in the tropical paradise of Bali.",
+      "description": "Spend 8 days in Bali with yoga sessions, beach relaxation, and cultural exploration. Enjoy massages, temple visits, and fresh Balinese cuisine. Perfect for a full mind-body reset.",
+      "price": 990,
+      "duration": "8 days",
+      "image": "images/bali.jpg"
+    }
+  ]
+}
